@@ -1,4 +1,4 @@
-# Olá, sou o Alex Batista ^^
+# Olá, sou Alex Batista ^^
 Para informações mais detalhadas sobre mim [clique aqui](https://sites.google.com/view/alex-batista-da-costa/p%C3%A1gina-inicial).
 
 ## Atividades
