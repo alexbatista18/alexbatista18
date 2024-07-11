@@ -4,6 +4,7 @@ Para informações mais detalhadas sobre mim [clique aqui](https://sites.google.
 ## Atividades
 - Bolsista de Iniciação Científica na UFRN
 - Voluntário de Iniciação Científica no IIN-ELS
+- Dev trainee na DNA Center
 
 ## Linguagens de Programação
 - Python
