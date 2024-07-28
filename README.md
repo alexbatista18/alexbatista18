@@ -1,5 +1,5 @@
 # Olá, sou Alex Batista ^^
-Para informações mais detalhadas sobre mim [clique aqui](https://sites.google.com/view/alex-batista-da-costa/pt).
+Para informações mais detalhadas sobre mim [clique aqui](https://sites.google.com/view/alex-batista-da-costa/pt?authuser=0).
 
 ## Atividades
 - Bolsista de Iniciação Científica na UFRN
