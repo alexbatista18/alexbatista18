@@ -2,9 +2,9 @@
 Para informações mais detalhadas sobre mim [clique aqui](https://sites.google.com/view/alex-batista-da-costa/pt?authuser=0).
 
 ## Atividades
-- Bolsista de Iniciação Científica na UFRN
-- Voluntário de Iniciação Científica no IIN-ELS
-- Dev trainee no Laboratório de Análises Clínicas DNA Center
+- Bolsista de Iniciação Científica no IIN-ELS.
+- Estagiário como desenvolvedor no DNA Center.
+- Empreendedor tentando tirar ideías do papel.
 
 ## Linguagens de Programação
 - Python
