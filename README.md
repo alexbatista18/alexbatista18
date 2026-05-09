@@ -6,7 +6,6 @@ For more details about me and my projects, [click here](https://sites.google.com
 
 ## 💼 Current Activities
 - Junior Full Stack Developer at **DNA Center Laboratório de Análises Clínicas**
-- Undergraduate researcher at **UFRN** — VR game for pain relief in pediatric patients
 - Building solutions at the intersection of **AI, automation and healthcare**
 
 ## 🛠️ Tech Stack
