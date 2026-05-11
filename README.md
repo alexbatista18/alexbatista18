@@ -1,8 +1,12 @@
 # Hi, I'm Alex Batista 👋
 
-Bachelor's student in Science and Technology at UFRN · Junior Full Stack Developer · Machine Learning enthusiast applied to healthcare and neuroengineering.
+Bachelor's student in Science and Technology at UFRN · Junior Full Stack Developer · 
+Machine Learning enthusiast applied to healthcare and neuroengineering.
 
 For more details about me and my projects, [click here](https://sites.google.com/view/alex-batista-da-costa/pt?authuser=0).
+
+> Most of my production work lives in private repositories due to company confidentiality.
+> The projects here reflect personal research and academic work.
 
 ## 💼 Current Activities
 - Junior Full Stack Developer at **DNA Center Laboratório de Análises Clínicas**
@@ -25,6 +29,7 @@ For more details about me and my projects, [click here](https://sites.google.com
 
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Other**
 
