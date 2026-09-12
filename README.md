@@ -1,18 +1,14 @@
-# Hi, I'm Alex Batista 👋
+# Alex Batista da Costa
 
-Bachelor's student in Science and Technology at UFRN · Junior Full Stack Developer · 
-Machine Learning enthusiast applied to healthcare and neuroengineering.
+Bacharelando em Ciências e Tecnologia pela UFRN. Hoje trabalho como desenvolvedor full-stack júnior na DNA Center Laboratório de Análises Clínicas, automatizando a identificação de exames em prescrições médicas com visão computacional (YOLOv8), back-end em NestJS/Node.js e front-end em React/Tailwind.
 
-For more details about me and my projects, [click here](https://alexbc.dev.br).
+Antes disso passei uma temporada como pesquisador de iniciação científica no Instituto Internacional de Neurociências Edmond e Lily Safra, com interfaces cérebro-máquina e simuladores de cadeira de rodas — resultou em 2 softwares registrados no INPI (2024) e uma coautoria num paper na BMJ Open (2024).
 
-> Most of my production work lives in private repositories due to company confidentiality.
-> The projects here reflect personal research and academic work.
+Histórico completo e projetos: **[alexbc.dev.br](https://alexbc.dev.br)**
 
-## 💼 Current Activities
-- Junior Full Stack Developer at **DNA Center Laboratório de Análises Clínicas**
-- Building solutions at the intersection of **AI, automation and healthcare**
+> A maior parte do código que escrevo no trabalho fica em repositórios privados, por confidencialidade. O que está público aqui é pesquisa acadêmica e projetos pessoais.
 
-## 🛠️ Tech Stack
+## Stack
 
 **Back-end**
 
@@ -25,22 +21,18 @@ For more details about me and my projects, [click here](https://alexbc.dev.br).
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI & Automation**
+**IA e automação**
 
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Other**
+**Outros**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 🔬 Academic Highlights
-- 2 software programs registered at **INPI** (2024) — wheelchair control simulators
-- Co-author in paper accepted at **BMJ Open** (2024)
-- Former researcher at **IIN-ELS / Instituto Santos Dumont** — brain-computer interfaces & neuroengineering
+## Contato
 
-## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-batista-da-costa-880818247/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexbc.dev.br)
