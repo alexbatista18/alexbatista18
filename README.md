@@ -2,7 +2,7 @@
 
 Bacharelando em Ciências e Tecnologia pela UFRN. Hoje trabalho como desenvolvedor full-stack júnior na DNA Center Laboratório de Análises Clínicas, automatizando a identificação de exames em prescrições médicas com visão computacional (YOLOv8), back-end em NestJS/Node.js e front-end em React/Tailwind.
 
-Antes disso passei uma temporada como pesquisador de iniciação científica no Instituto Internacional de Neurociências Edmond e Lily Safra, com interfaces cérebro-máquina e simuladores de cadeira de rodas — resultou em 2 softwares registrados no INPI (2024) e uma coautoria num paper na BMJ Open (2024).
+Antes disso passei uma temporada como pesquisador de iniciação científica no Instituto Internacional de Neurociências Edmond e Lily Safra, com interfaces cérebro-máquina e simuladores de cadeira de rodas, resultou em 2 softwares registrados no INPI (2024) e uma coautoria num paper na BMJ Open (2024).
 
 Histórico completo e projetos: **[alexbc.dev.br](https://alexbc.dev.br)**
 
