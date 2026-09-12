@@ -3,7 +3,7 @@
 Bachelor's student in Science and Technology at UFRN · Junior Full Stack Developer · 
 Machine Learning enthusiast applied to healthcare and neuroengineering.
 
-For more details about me and my projects, [click here](https://sites.google.com/view/alex-batista-da-costa/pt?authuser=0).
+For more details about me and my projects, [click here](https://alexbc.dev.br).
 
 > Most of my production work lives in private repositories due to company confidentiality.
 > The projects here reflect personal research and academic work.
@@ -43,4 +43,4 @@ For more details about me and my projects, [click here](https://sites.google.com
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-batista-da-costa-880818247/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/alex-batista-da-costa/pt?authuser=0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexbc.dev.br)
