@@ -1,8 +1,8 @@
 # Alex Batista da Costa
 
-Bacharelando em Ciências e Tecnologia pela UFRN. Hoje trabalho como desenvolvedor full-stack júnior na DNA Center Laboratório de Análises Clínicas, automatizando a identificação de exames em prescrições médicas com visão computacional (YOLOv8), back-end em NestJS/Node.js e front-end em React/Tailwind.
+Concluinte do Bacharelado em Ciências e Tecnologia pela UFRN. Trabalho com desenvolvimento de sistemas com IA para um laboratório de análises clínicas em Natal: comecei como desenvolvedor full stack e hoje também atuo como Product Owner. Construí soluções em produção com visão computacional (YOLOv8), leitura de documentos médicos combinando OCR e LLMs de visão, agentes de IA com RAG e servidores MCP.
 
-Antes disso passei uma temporada como pesquisador de iniciação científica no Instituto Internacional de Neurociências Edmond e Lily Safra, com interfaces cérebro-máquina e simuladores de cadeira de rodas, resultou em 2 softwares registrados no INPI (2024) e uma coautoria num paper na BMJ Open (2024).
+Entre 2022 e 2024 fui pesquisador de iniciação científica no Instituto Internacional de Neurociências Edmond e Lily Safra (ISD) e na UFRN, com interfaces cérebro-máquina, realidade virtual e simuladores de cadeira de rodas. Isso resultou em 2 artigos completos no CBEB 2024 publicados no IFMBE Proceedings (Springer), um deles com menção honrosa, 2 softwares registrados no INPI e uma coautoria na BMJ Open.
 
 Histórico completo e projetos: **[alexbc.dev.br](https://alexbc.dev.br)**
 
